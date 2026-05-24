@@ -1,0 +1,5 @@
+{
+  "name": "Audio Compliance Auditor",
+  "description": "A system to verify if transcribed audio matches provided text and adheres to specific guidelines.",
+  "requestFramePermissions": []
+}

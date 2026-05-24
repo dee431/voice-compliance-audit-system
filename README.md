@@ -1,4 +1,3 @@
-# voice-compliance-audit-system
 📌 Audio Compliance Auditor
 
 Audio Compliance Auditor is an advanced automated tool designed to review, verify, and evaluate audio files for quality and compliance standards. It ensures that audio recordings meet predefined criteria such as clarity, duration, silence thresholds, format correctness, and guideline adherence. This system is useful for transcription pipelines, dataset preparation, call-center quality control, speech dataset validation, and audio production workflows.
@@ -47,7 +46,8 @@ Highlights major issues & suggestions for improvement
 
 Analyze single or bulk audio files at once
 
-🤖 (Optional if included) AI/LLM-Based Content Review 📥 Input
+🤖 (Optional if included) AI/LLM-Based Content Review
+📥 Input
 
 Audio file(s) → .wav, .mp3, etc.
 
